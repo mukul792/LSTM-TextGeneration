@@ -39,5 +39,8 @@ A sample dataset (`faqs` variable) containing multiple paragraphs was used for t
 
 ---
 
-![alt text](1.png)
 ![alt text](2.png)
+
+---
+
+![alt text](1.png)
