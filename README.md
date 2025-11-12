@@ -35,7 +35,6 @@ A sample dataset (`faqs` variable) containing multiple paragraphs was used for t
 | LSTM (1)      | (None, 106, 150) | 150,600 |
 | LSTM (2)      | (None, 150) | 180,600 |
 | Dense         | (None, 283) | 42,733 |
-| **Total Params** | **~400K** | — |
 
 ---
 
