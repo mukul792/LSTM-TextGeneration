@@ -39,5 +39,5 @@ A sample dataset (`faqs` variable) containing multiple paragraphs was used for t
 
 ---
 
-
-**Seed Text:**  
+![alt text](1.png)
+![alt text](2.png)
